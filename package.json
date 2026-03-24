@@ -9,9 +9,15 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "daisyui": "^5.5.19",
+    "lucide-react": "1.0.0-rc.1",
     "next": "16.2.1",
+    "postgres": "^3.4.8",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-day-picker": "^9.14.0",
+    "react-dom": "19.2.4",
+    "use-debounce": "^10.1.0",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
